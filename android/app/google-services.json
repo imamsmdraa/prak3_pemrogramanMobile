@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8066462651",
+    "project_id": "prak3pemrogramanmobile",
+    "storage_bucket": "prak3pemrogramanmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8066462651:android:3b36da313cd9754a668a9e",
+        "android_client_info": {
+          "package_name": "com.example.todo_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsnUelo2QtTdD8Lg6SMxsm7MOOH-4WUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
